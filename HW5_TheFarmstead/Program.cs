@@ -3,7 +3,6 @@
  * 
  * HW 5 - The Farmstead
  * Assignment Write-Up: https://docs.google.com/document/d/1lHcOHZfS4NGsVFBPYU7IA6HgXgWUapI5OKKlDHN3fuc/edit?usp=sharing
- * GitHub repo URL:
  * 
  */
 
